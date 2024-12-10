@@ -1,2 +1,3 @@
 pandas~=2.2.2
-python~=3.11.10
+six~=1.17.0
+Pyarrow~=18.1.0
